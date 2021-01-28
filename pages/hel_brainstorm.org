@@ -5,7 +5,7 @@
 We are attempting to extract triples from textual Q&A by using a
 Neural Machine Translation approach.
 
-*
+* [[file:../journals/2021_01_28.org][Jan 28th, 2021]]
 * BACKBURNER Refinining OpenIE approach                               :deyan:
 ** Idea is we need a basic data model from which we can build things
 
