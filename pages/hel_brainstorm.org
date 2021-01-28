@@ -203,7 +203,7 @@ If you put leashes on these things, using solid methods.
 
 * Next steps :noexport:
 :PROPERTIES:
-:ID:       2ee512d9-60cf-443c-aa3d-ef8eb42789e9
+:id: 2ee512d9-60cf-443c-aa3d-ef8eb42789e9
 :END:
 
 - [[file:20200905131918-knowledge_graph.org][Knowledge graph]]
