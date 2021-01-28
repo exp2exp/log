@@ -207,3 +207,4 @@ If you put leashes on these things, using solid methods.
 
 - [[file:20200905131918-knowledge_graph.org][Knowledge graph]]
 - [[file:20200810135403-advances_in_knowledge_mining_from_technical_documents.org][Advances in knowledge mining from technical documents]]
+* [[file:../journals/2021_01_28.org][Jan 28th, 2021]]
